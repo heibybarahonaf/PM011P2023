@@ -8,7 +8,7 @@
     tools:context=".ActivityPhoto">
 
     <ImageView
-        android:id="@+id/ImageView"
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="400dp"
         app:srcCompat="@drawable/foto" />
